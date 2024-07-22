@@ -50,10 +50,13 @@ Decrypted String: "Decoded/Decrypted text"
 
 ## Argument (kudo_v2.py)
 
-```bash
+```python
 python3 kudo.py -a <algorithm> -d <data>
 ```
 
+```python
+python3 kudo.py -a <algorithm> -d <data> -k <key>
+```
 ## Installation
 
 KUDO requires Python 3 and the following packages:
